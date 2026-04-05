@@ -120,7 +120,6 @@ src/
 
 ## 📸 Screenshots
 
-> *(Add screenshots here after deployment)*
 <img width="1919" height="787" alt="image" src="https://github.com/user-attachments/assets/f4e52c9e-b79f-460e-bde0-68fa6409ae54" />
 <img width="1876" height="872" alt="Screenshot 2026-04-05 200117" src="https://github.com/user-attachments/assets/859de41a-f96d-4df4-a0dd-daa64a9f2d46" />
 <img width="1884" height="886" alt="Screenshot 2026-04-05 200046" src="https://github.com/user-attachments/assets/c92d6f7b-1c39-4f69-bafa-cdff483e6605" />
