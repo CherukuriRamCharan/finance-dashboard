@@ -73,7 +73,6 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ### Build for Production
 
@@ -122,6 +121,10 @@ src/
 ## 📸 Screenshots
 
 > *(Add screenshots here after deployment)*
+<img width="1919" height="787" alt="image" src="https://github.com/user-attachments/assets/f4e52c9e-b79f-460e-bde0-68fa6409ae54" />
+<img width="1876" height="872" alt="Screenshot 2026-04-05 200117" src="https://github.com/user-attachments/assets/859de41a-f96d-4df4-a0dd-daa64a9f2d46" />
+<img width="1884" height="886" alt="Screenshot 2026-04-05 200046" src="https://github.com/user-attachments/assets/c92d6f7b-1c39-4f69-bafa-cdff483e6605" />
+<img width="1919" height="787" alt="Screenshot 2026-04-05 200134" src="https://github.com/user-attachments/assets/8f2f9429-8a8a-4b48-b2d4-2de7aeacf761" />
 
 ---
 
