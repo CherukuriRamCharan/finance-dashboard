@@ -2,7 +2,7 @@
 
 A clean, interactive personal finance dashboard built with **React + Vite + Tailwind CSS**. Designed as a frontend assignment showcasing UI design, component architecture, role-based access, data visualization, and thoughtful UX.
 
-🔗 **Live Demo**: [finance-dashboard on Vercel](#) *(update after deploy)*
+🔗 **Live Demo**: [finance-dashboard-wine-two.vercel.app](https://finance-dashboard-wine-two.vercel.app)
 
 ---
 
