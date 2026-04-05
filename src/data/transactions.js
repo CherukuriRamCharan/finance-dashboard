@@ -1,0 +1,28 @@
+export const TRANSACTIONS = [
+  { id: 1,  date: '2025-01-05', description: 'Grocery Store',      category: 'Food',          type: 'expense', amount: 120.50 },
+  { id: 2,  date: '2025-01-10', description: 'Monthly Salary',     category: 'Salary',        type: 'income',  amount: 4500.00 },
+  { id: 3,  date: '2025-01-12', description: 'Uber Ride',          category: 'Transport',     type: 'expense', amount: 18.75 },
+  { id: 4,  date: '2025-01-15', description: 'Netflix',            category: 'Entertainment', type: 'expense', amount: 15.99 },
+  { id: 5,  date: '2025-01-18', description: 'Pharmacy',           category: 'Health',        type: 'expense', amount: 45.00 },
+  { id: 6,  date: '2025-01-20', description: 'Freelance Project',  category: 'Freelance',     type: 'income',  amount: 800.00 },
+  { id: 7,  date: '2025-01-22', description: 'Electric Bill',      category: 'Utilities',     type: 'expense', amount: 95.00 },
+  { id: 8,  date: '2025-01-25', description: 'Amazon Order',       category: 'Shopping',      type: 'expense', amount: 210.00 },
+  { id: 9,  date: '2025-02-05', description: 'Restaurant',         category: 'Food',          type: 'expense', amount: 65.30 },
+  { id: 10, date: '2025-02-10', description: 'Monthly Salary',     category: 'Salary',        type: 'income',  amount: 4500.00 },
+  { id: 11, date: '2025-02-12', description: 'Bus Pass',           category: 'Transport',     type: 'expense', amount: 40.00 },
+  { id: 12, date: '2025-02-14', description: 'Gym Membership',     category: 'Health',        type: 'expense', amount: 50.00 },
+  { id: 13, date: '2025-02-18', description: 'Spotify',            category: 'Entertainment', type: 'expense', amount: 9.99 },
+  { id: 14, date: '2025-02-20', description: 'Freelance Project',  category: 'Freelance',     type: 'income',  amount: 1200.00 },
+  { id: 15, date: '2025-02-22', description: 'Internet Bill',      category: 'Utilities',     type: 'expense', amount: 60.00 },
+  { id: 16, date: '2025-02-26', description: 'Clothing Store',     category: 'Shopping',      type: 'expense', amount: 175.00 },
+  { id: 17, date: '2025-03-05', description: 'Supermarket',        category: 'Food',          type: 'expense', amount: 98.40 },
+  { id: 18, date: '2025-03-10', description: 'Monthly Salary',     category: 'Salary',        type: 'income',  amount: 4500.00 },
+  { id: 19, date: '2025-03-13', description: 'Taxi',               category: 'Transport',     type: 'expense', amount: 25.00 },
+  { id: 20, date: '2025-03-17', description: 'Doctor Visit',       category: 'Health',        type: 'expense', amount: 120.00 },
+  { id: 21, date: '2025-03-20', description: 'Cinema',             category: 'Entertainment', type: 'expense', amount: 30.00 },
+  { id: 22, date: '2025-03-22', description: 'Freelance Project',  category: 'Freelance',     type: 'income',  amount: 950.00 },
+  { id: 23, date: '2025-03-25', description: 'Water Bill',         category: 'Utilities',     type: 'expense', amount: 35.00 },
+  { id: 24, date: '2025-03-28', description: 'Electronics',        category: 'Shopping',      type: 'expense', amount: 320.00 },
+];
+
+export const CATEGORIES = [...new Set(TRANSACTIONS.map(t => t.category))];
